@@ -15,7 +15,7 @@ Alternative: son.lt1103@gmail.com.
 # How to run 
 **Step 0**: 
 + Preparing dataset. Put the dataset (.json file) in the "data/vietnam" folder
-+ Preparing the word vectors for Vietnamese: Word2VEC (http://vectors.nlpl.eu/repository/) or fasttext (https://fasttext.cc/docs/en/crawl-vectors.html) 
++ Preparing the word vectors for Vietnamese: Word2VEC (http://vectors.nlpl.eu/repository/) or fasttext (https://fasttext.cc/docs/en/crawl-vectors.html). Put the vector in the **"vectors"** folders. 
 
 **Step 1**: Converting the dataset into CoNLLU
 Run the bash script "./data/create_vietnam_sent_graphs.sh"      
