@@ -3583,36 +3583,6 @@
         ]
     },
     {
-        "sent_id": 8298,
-        "text": "Chuoi mà cái mặt hiền mà đẹp gái quá chị ơi",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "́i q"
-                    ],
-                    [
-                        "37:41"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "Chuoi mà cái mặt hiền mà đẹp g"
-                    ],
-                    [
-                        "0:36"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 8299,
         "text": "camera xuất sắc một chiếc điện thoại tốt cho ae nào cần",
         "opinions": [
@@ -3893,10 +3863,10 @@
                 ],
                 "Target": [
                     [
-                        " con chó tên là Thành Lê nhà mình"
+                        "con chó tên là Thành Lê nhà mình"
                     ],
                     [
-                        "25:58"
+                        "26:58"
                     ]
                 ],
                 "Polar_expression": [
@@ -3937,10 +3907,10 @@
             {
                 "Source": [
                     [
-                        "mình "
+                        "mình"
                     ],
                     [
-                        "91:96"
+                        "91:95"
                     ]
                 ],
                 "Target": [
@@ -3961,18 +3931,18 @@
             {
                 "Source": [
                     [
-                        "mình "
+                        "mình"
                     ],
                     [
-                        "91:96"
+                        "91:95"
                     ]
                 ],
                 "Target": [
                     [
-                        " con chó tên là Thành Lê nhà mình"
+                        "con chó tên là Thành Lê nhà mình"
                     ],
                     [
-                        "25:58"
+                        "26:58"
                     ]
                 ],
                 "Polar_expression": [
@@ -5191,56 +5161,6 @@
         ]
     },
     {
-        "sent_id": 8326,
-        "text": "K phải la em ý cầm ngược mà la cuốn sách in bìa ngược đấy. Xem lại clip ma thấy nghẹn",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "ợc đấy. Xem lại clip ma"
-                    ],
-                    [
-                        "59:85"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "̀ la cuố"
-                    ],
-                    [
-                        "31:40"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " sách in bìa n"
-                    ],
-                    [
-                        "41:57"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 8327,
         "text": "\"Có tiền, có xe mà ý thức thua điểm thi hóa của cháu nữa :\\\"\"((\"",
         "opinions": [
@@ -5642,15 +5562,15 @@
                         "Mình "
                     ],
                     [
-                        "0:5"
+                        "0:4"
                     ]
                 ],
                 "Target": [
                     [
-                        "huỷ triều đỏ"
+                        "thuỷ triều đỏ"
                     ],
                     [
-                        "39:51"
+                        "38:51"
                     ]
                 ],
                 "Polar_expression": [
@@ -9719,10 +9639,10 @@
                 ],
                 "Target": [
                     [
-                        "hị xác chết với chị bác sĩ pháp y đó"
+                        "chị xác chết với chị bác sĩ pháp y đó"
                     ],
                     [
-                        "10:46"
+                        "9:46"
                     ]
                 ],
                 "Polar_expression": [
@@ -9747,10 +9667,10 @@
                 ],
                 "Target": [
                     [
-                        "hị xác chết với chị bác sĩ pháp y đó"
+                        "chị xác chết với chị bác sĩ pháp y đó"
                     ],
                     [
-                        "10:46"
+                        "9:46"
                     ]
                 ],
                 "Polar_expression": [
@@ -14197,10 +14117,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "ảm thấy tội lỗi quá "
+                        "ảm thấy tội lỗi quá"
                     ],
                     [
-                        "7:27"
+                        "7:26"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -16223,10 +16143,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "h chết mẹ 😶"
+                        "kinh chết mẹ 😶"
                     ],
                     [
-                        "93:105"
+                        "90:105"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -16263,10 +16183,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "ạc nhau nước nôi máu me be bét ra 😭"
+                        "xoạc nhau nước nôi máu me be bét ra 😭"
                     ],
                     [
-                        "54:89"
+                        "52:89"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -22458,10 +22378,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " nhà nấu cơm cho mẹ "
+                        "nhà nấu cơm cho mẹ"
                     ],
                     [
-                        "29:49"
+                        "30:48"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -22470,10 +22390,10 @@
             {
                 "Source": [
                     [
-                        "ao "
+                        "tao"
                     ],
                     [
-                        "52:55"
+                        "51:54"
                     ]
                 ],
                 "Target": [
@@ -22482,10 +22402,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "ợ lắm"
+                        "sợ lắm"
                     ],
                     [
-                        "56:62"
+                        "55:62"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -22494,10 +22414,10 @@
             {
                 "Source": [
                     [
-                        "ao "
+                        "tao"
                     ],
                     [
-                        "3:6"
+                        "2:5"
                     ]
                 ],
                 "Target": [
@@ -22506,10 +22426,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "hông lấy chồng nữa "
+                        "không lấy chồng nữa "
                     ],
                     [
-                        "7:26"
+                        "6:25"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -22868,136 +22788,6 @@
                     ],
                     [
                         "6:44"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5545,
-        "text": "\"b nói rất chuẩn, hno t chửi nó post 1 bài, có vài thành phần nguy hiểm k biết bị nó lôi kéo thế là theo nó, haizz thật. chờ đến lúc chúng nó nhận ra chắc cũng muộn\"",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "ửi"
-                    ],
-                    [
-                        "29:32"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " nó post "
-                    ],
-                    [
-                        "32:42"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "i, có vài thành phần"
-                    ],
-                    [
-                        "47:71"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "nguy hiểm k biết bị nó lôi kéo"
-                    ],
-                    [
-                        "72:107"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "b"
-                    ],
-                    [
-                        "1:2"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "nói rất chu"
-                    ],
-                    [
-                        "3:16"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "thật. c"
-                    ],
-                    [
-                        "133:141"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "ờ đến lúc chúng no"
-                    ],
-                    [
-                        "142:164"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "n"
-                    ],
-                    [
-                        "22:23"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "ửi"
-                    ],
-                    [
-                        "29:32"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " t ch"
-                    ],
-                    [
-                        "24:29"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -24644,18 +24434,18 @@
                 ],
                 "Target": [
                     [
-                        "hú"
+                        "Chúc"
                     ],
                     [
-                        "28:31"
+                        "27:32"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " ông luôn có những thông linh hiệu ứng và tiên tri"
+                        "ông luôn có những thông linh hiệu ứng và tiên tri"
                     ],
                     [
-                        "32:87"
+                        "33:87"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -24676,119 +24466,13 @@
                 ],
                 "Polar_expression": [
                     [
-                        "còn khỏe mạnh "
+                        "còn khỏe mạnh lắm"
                     ],
                     [
-                        "4:21"
+                        "4:25"
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "hú"
-                    ],
-                    [
-                        "28:31"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "́m. C"
-                    ],
-                    [
-                        "23:28"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5573,
-        "text": "\"sông cửu long thì bọn cẩu nó ngăn nước đầu nguồn , giờ miền trung thì xả chất độc :( chả có cái gì bọn cẩu này ko làm đc\"",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        "̀ bọn cẩ"
-                    ],
-                    [
-                        "19:29"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "sông cửu lon"
-                    ],
-                    [
-                        "1:14"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " nó ngăn nước đầ"
-                    ],
-                    [
-                        "30:49"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "̀ bọn cẩ"
-                    ],
-                    [
-                        "19:29"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "n , giờ m"
-                    ],
-                    [
-                        "56:66"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "trung thì "
-                    ],
-                    [
-                        "71:82"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "chất độc :( chả có cái gì bọ"
-                    ],
-                    [
-                        "86:121"
-                    ]
-                ],
-                "Polarity": "Negative",
                 "Intensity": "Standard"
             }
         ]
@@ -25162,18 +24846,18 @@
                 ],
                 "Target": [
                     [
-                        " em"
+                        "em"
                     ],
                     [
-                        "7:10"
+                        "8:10"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " làm to rồi xem lúc về hưu e có những j xun"
+                        "làm to rồi xem lúc về hưu e có những j xung quanh"
                     ],
                     [
-                        "10:59"
+                        "11:66"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -25186,18 +24870,18 @@
                 ],
                 "Target": [
                     [
-                        " em"
+                        "em"
                     ],
                     [
-                        "7:10"
+                        "8:10"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "Cố lê"
+                        "Cố lên"
                     ],
                     [
-                        "0:6"
+                        "0:7"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -25922,18 +25606,18 @@
                 ],
                 "Target": [
                     [
-                        " Chung"
+                        "Chung"
                     ],
                     [
-                        "135:141"
+                        "136:141"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "từng giữ nhà dùm "
+                        "từng giữ nhà dùm"
                     ],
                     [
-                        "142:159"
+                        "142:158"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -26987,88 +26671,6 @@
         ]
     },
     {
-        "sent_id": 5607,
-        "text": "Hình như thằng Mỹ ko thiếu nợ thì phải. Tất cả các nước đang nợ Mỹ. Mỹ vô địch. I love you",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        "phải. Tất cả"
-                    ],
-                    [
-                        "40:55"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "́c"
-                    ],
-                    [
-                        "64:66"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "các nư"
-                    ],
-                    [
-                        "56:63"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        " thằng "
-                    ],
-                    [
-                        "9:17"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "ỹ ko thiếu nợ thi"
-                    ],
-                    [
-                        "18:38"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "ang"
-                    ],
-                    [
-                        "68:71"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " nợ My"
-                    ],
-                    [
-                        "71:78"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 5608,
         "text": "\"Thương cụ , tới giời vẩn không hiểu vì sao vẩn phải đi nhặt rác , chúc cụ có nhiều sức khoẻ để viết tiếp ước mơ cao đẹp của cụ , dạ bẩm cụ\"",
         "opinions": [
@@ -27079,18 +26681,18 @@
                 ],
                 "Target": [
                     [
-                        "cụ "
+                        "cụ"
                     ],
                     [
-                        "8:11"
+                        "8:10"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " tới giời vẩn không hiểu vì sao vẩn phải đi nhặt rác"
+                        "tới giời vẩn không hiểu vì sao vẩn phải đi nhặt rác"
                     ],
                     [
-                        "12:64"
+                        "13:64"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -27111,10 +26713,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "chúc "
+                        "chúc"
                     ],
                     [
-                        "67:72"
+                        "67:71"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -27127,18 +26729,18 @@
                 ],
                 "Target": [
                     [
-                        "cụ "
+                        "cụ"
                     ],
                     [
-                        "8:11"
+                        "8:10"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "Thương "
+                        "Thương"
                     ],
                     [
-                        "1:8"
+                        "1:7"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -29893,64 +29495,6 @@
         ]
     },
     {
-        "sent_id": 5654,
-        "text": "\"Vậy cho con hỏi là tại sao các lãnh đạo lại cứ so sánh giá xăng, giá điện với các nước phát triển mà lại ko so sánh thu nhập của dân mình với các nước phát triển\"",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "sao các lã"
-                    ],
-                    [
-                        "28:40"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "h đạo lại cứ so sánh giá xăng, giá điện với các nước phát triển mà lại ko so sánh thu nhập của dân mình"
-                    ],
-                    [
-                        "41:162"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        " co"
-                    ],
-                    [
-                        "9:12"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "sao các lã"
-                    ],
-                    [
-                        "28:40"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " hỏi là tại"
-                    ],
-                    [
-                        "13:27"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 5655,
         "text": "đây là lời cảnh tỉnh tới tất cả mọi người trên TG",
         "opinions": [
@@ -29965,10 +29509,10 @@
                 ],
                 "Target": [
                     [
-                        "tới tất cả mọi ngườ"
+                        "tới tất cả mọi người"
                     ],
                     [
-                        "25:49"
+                        "25:50"
                     ]
                 ],
                 "Polar_expression": [
@@ -30982,88 +30526,6 @@
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5669,
-        "text": "Tui thấy mấy ông chống cộng chẳng ông nào còn tỉnh táo. Hâm hết ko giống con giáp nào hết",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        " mấy ông chống c"
-                    ],
-                    [
-                        "9:27"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "̣ng chẳng ông nào còn t"
-                    ],
-                    [
-                        "28:54"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        " mấy ông chống c"
-                    ],
-                    [
-                        "9:27"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "nh táo. Hâm hết ko giống con g"
-                    ],
-                    [
-                        "56:89"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "Tui "
-                    ],
-                    [
-                        "0:4"
-                    ]
-                ],
-                "Target": [
-                    [
-                        " mấy ông chống c"
-                    ],
-                    [
-                        "9:27"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "thấy"
-                    ],
-                    [
-                        "4:9"
-                    ]
-                ],
-                "Polarity": "Neutral",
                 "Intensity": "Standard"
             }
         ]
@@ -32151,10 +31613,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " k biết tỏ tình con nào"
+                        "k biết tỏ tình con nào"
                     ],
                     [
-                        "27:50"
+                        "28:50"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -32803,121 +32265,21 @@
                 ],
                 "Target": [
                     [
-                        "thằng cha na"
+                        "thằng cha này"
                     ],
                     [
-                        "0:13"
+                        "0:15"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "y cười tươi như chưa từng được"
+                        "cười tươi như chưa từng được cười"
                     ],
                     [
-                        "14:47"
+                        "16:53"
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5699,
-        "text": "Tức nhiêng.....Tức nhiêng...thích thì vô....kg thích thì vô",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "..thích thi"
-                    ],
-                    [
-                        "28:40"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "....kg thích t"
-                    ],
-                    [
-                        "44:59"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5700,
-        "text": "Tạo nghiệp nhiều vá  để dành  cho đình  cho chồng con. Và  cả  bản thân mình hưỡng tiền  thì hết  mà  nghiệp  vẫn mang  theo suốt  đời  không  có mất đâu tạo ngiep để răn hương",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "Và  cả  bản"
-                    ],
-                    [
-                        "63:76"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "thân mình hưỡng tiền  thì hết  mà  nghiệp  vẫn mang  theo suốt  đời  không  có mất đâu ta"
-                    ],
-                    [
-                        "77:176"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "  ch"
-                    ],
-                    [
-                        "34:38"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "Tạo nghiệp nhiều vá  để"
-                    ],
-                    [
-                        "0:28"
-                    ]
-                ],
-                "Polarity": "Negative",
                 "Intensity": "Standard"
             }
         ]
@@ -33167,10 +32529,10 @@
                 ],
                 "Target": [
                     [
-                        "gười sinh ngay vạch đua"
+                        "người sinh ngay vạch đua"
                     ],
                     [
-                        "74:97"
+                        "73:97"
                     ]
                 ],
                 "Polar_expression": [
@@ -33644,84 +33006,6 @@
                     ]
                 ],
                 "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5712,
-        "text": "\"So éo gì với cái bọn đi vệ sinh ra xăng. Không phải Iran, ko phải trung đông mà Mỹ mới là cái rốn dầu của thế giới. Giờ lại có thể biến đá thành xăng kia kìa.\"",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "đô"
-                    ],
-                    [
-                        "81:83"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "g mà Mỹ mới là cái rốn dâ"
-                    ],
-                    [
-                        "84:115"
-                    ]
-                ],
-                "Polarity": "Positive",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "́i cái"
-                    ],
-                    [
-                        "14:21"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "bọn đi vệ sinh r"
-                    ],
-                    [
-                        "22:40"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "đô"
-                    ],
-                    [
-                        "81:83"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " của thế giới. Giờ lại có thể biế"
-                    ],
-                    [
-                        "117:158"
-                    ]
-                ],
-                "Polarity": "Positive",
                 "Intensity": "Standard"
             }
         ]
@@ -34619,26 +33903,26 @@
             {
                 "Source": [
                     [
-                        "́y Phần"
+                        "Phần lan"
                     ],
                     [
-                        "18:26"
+                        "21:30"
                     ]
                 ],
                 "Target": [
                     [
-                        " nhập Liên bang "
+                        "Liên bang Xô viết"
                     ],
                     [
-                        "59:76"
+                        "66:84"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "lan không được \"\"vinh dự\"\" gi"
+                        "\"\"vinh dự\"\" gia nhập"
                     ],
                     [
-                        "27:58"
+                        "43:65"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -35451,10 +34735,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " là bảo hiểm \"\" bắt buộc \"\" mà"
+                        "là bảo hiểm \"\" bắt buộc \"\" mà"
                     ],
                     [
-                        "41:71"
+                        "42:71"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -38465,60 +37749,6 @@
         ]
     },
     {
-        "sent_id": 5804,
-        "text": "\"Thấy tốn tiền nhà nước hong mấy chị \\\"\"có ý thức\\\"\"\"",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "hong mâ"
-                    ],
-                    [
-                        "29:36"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "hị \\\"\"co"
-                    ],
-                    [
-                        "40:49"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "hong mâ"
-                    ],
-                    [
-                        "29:36"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "Thấy tốn tiền nhà nước"
-                    ],
-                    [
-                        "1:28"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 5805,
         "text": "Tiên tri vũ trụ à! Ta là cụ tổ của Tiên tri vũ trụ đây! 2020 Tiên tri vũ trụ sẽ chui xuống đất ở nhé!🤣🤣🤣",
         "opinions": [
@@ -40174,10 +39404,10 @@
                 ],
                 "Target": [
                     [
-                        " Ông t"
+                        " Ông ta"
                     ],
                     [
-                        "4:10"
+                        "4:11"
                     ]
                 ],
                 "Polar_expression": [
@@ -40198,18 +39428,18 @@
                 ],
                 "Target": [
                     [
-                        " Ông t"
+                        " Ông ta"
                     ],
                     [
-                        "4:10"
+                        "4:11"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " đứng dậy múa đường quyền bằng được thì"
+                        "đứng dậy múa đường quyền bằng được thì"
                     ],
                     [
-                        "11:58"
+                        "12:58"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -40697,18 +39927,18 @@
                 ],
                 "Target": [
                     [
-                        "chi "
+                        "chi"
                     ],
                     [
-                        "87:91"
+                        "87:90"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        "dep lắ"
+                        "dep lắm"
                     ],
                     [
-                        "91:98"
+                        "91:99"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -40773,18 +40003,18 @@
                 ],
                 "Target": [
                     [
-                        " ch"
+                        "chi"
                     ],
                     [
-                        "100:103"
+                        "101:104"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " nói  chuyen dễ thương "
+                        "nói  chuyen dễ thương"
                     ],
                     [
-                        "104:129"
+                        "105:128"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -40801,10 +40031,10 @@
                 ],
                 "Target": [
                     [
-                        "chi "
+                        "chi"
                     ],
                     [
-                        "87:91"
+                        "87:90"
                     ]
                 ],
                 "Polar_expression": [
@@ -40812,7 +40042,7 @@
                         "moi biet "
                     ],
                     [
-                        "78:87"
+                        "78:86"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -41733,64 +40963,6 @@
         ]
     },
     {
-        "sent_id": 5857,
-        "text": "bắc kỳ con đâu rồi con trai ???mâm nào cũng có mặt con mà @@",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        "???mâm "
-                    ],
-                    [
-                        "31:38"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "g có m"
-                    ],
-                    [
-                        "47:54"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "ào cũ"
-                    ],
-                    [
-                        "39:46"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "̀i con t"
-                    ],
-                    [
-                        "19:27"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "bắc kỳ con đâu r"
-                    ],
-                    [
-                        "0:18"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 5858,
         "text": "Chả liên quan nhưng sinh xong e bé như con tự kỉ ... Được bà chị đọc cho nghe bài của Thắm mà cười rung rốn !!! Thấy thoải mái hẳn như tìm lại chính mình ý... Tks page nhé 😍😍😍",
         "opinions": [
@@ -42159,10 +41331,10 @@
             {
                 "Source": [
                     [
-                        " bác"
+                        "bác"
                     ],
                     [
-                        "12:16"
+                        "13:16"
                     ]
                 ],
                 "Target": [
@@ -42377,10 +41549,10 @@
                 ],
                 "Target": [
                     [
-                        "xây dựng ở vn "
+                        "xây dựng ở vn"
                     ],
                     [
-                        "26:40"
+                        "26:39"
                     ]
                 ],
                 "Polar_expression": [
@@ -42401,18 +41573,18 @@
                 ],
                 "Target": [
                     [
-                        "xây dựng ở vn "
+                        "xây dựng ở vn"
                     ],
                     [
-                        "26:40"
+                        "26:39"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " luôn gian dối"
+                        "luôn gian dối"
                     ],
                     [
-                        "39:53"
+                        "40:53"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -42576,120 +41748,6 @@
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5869,
-        "text": "Nó tập ở đảo nhà nó liên quan đéo j đến VN? Hay chúg mày nghĩ toàn bộ đảo ở quần đảo HS lẫn TS đều của VN?",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        "Nó"
-                    ],
-                    [
-                        "0:3"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "ở đảo nh"
-                    ],
-                    [
-                        "9:19"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " tâ"
-                    ],
-                    [
-                        "3:6"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "Nó"
-                    ],
-                    [
-                        "0:3"
-                    ]
-                ],
-                "Target": [
-                    [
-                        " j"
-                    ],
-                    [
-                        "40:42"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "̀ nó liên quan đé"
-                    ],
-                    [
-                        "20:39"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "VN? Hay "
-                    ],
-                    [
-                        "48:56"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "mày nghĩ toàn bộ đảo ở quâ"
-                    ],
-                    [
-                        "62:94"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "húg "
-                    ],
-                    [
-                        "57:62"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "S "
-                    ],
-                    [
-                        "103:105"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "n đảo "
-                    ],
-                    [
-                        "95:102"
-                    ]
-                ],
-                "Polarity": "Neutral",
                 "Intensity": "Standard"
             }
         ]
@@ -43105,10 +42163,10 @@
                 ],
                 "Target": [
                     [
-                        "hững điều mình làm"
+                        "những điều mình làm"
                     ],
                     [
-                        "14:32"
+                        "13:32"
                     ]
                 ],
                 "Polar_expression": [
@@ -43129,10 +42187,10 @@
                 ],
                 "Target": [
                     [
-                        "hững điều mình làm"
+                        "những điều mình làm"
                     ],
                     [
-                        "14:32"
+                        "13:32"
                     ]
                 ],
                 "Polar_expression": [
@@ -44117,10 +43175,10 @@
                 ],
                 "Target": [
                     [
-                        " bà con Việt Nam"
+                        "bà con Việt Nam"
                     ],
                     [
-                        "95:111"
+                        "96:111"
                     ]
                 ],
                 "Polar_expression": [
@@ -44646,136 +43704,6 @@
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5902,
-        "text": "Ông nói : ông là cố vấn của TT Trump  vậy trong lúc dịch bệnh khó khăn như hiện tại thì ông làm được gì cho người dân Mỹ ? Hay là ông ngồi tréo cẳng mà nói dóc ??",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        " ôn"
-                    ],
-                    [
-                        "10:13"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "̀ cố vấn của TT "
-                    ],
-                    [
-                        "17:36"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " l"
-                    ],
-                    [
-                        "14:16"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "̣n t"
-                    ],
-                    [
-                        "88:92"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "m được gì "
-                    ],
-                    [
-                        "108:120"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "ại thì ông la"
-                    ],
-                    [
-                        "92:107"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "Ông "
-                    ],
-                    [
-                        "0:4"
-                    ]
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "nó"
-                    ],
-                    [
-                        "4:7"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        " dâ"
-                    ],
-                    [
-                        "130:133"
-                    ]
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        " Mỹ ? Hay là ông ngồi "
-                    ],
-                    [
-                        "134:159"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        "ump  vậy trong lúc dịch bệnh khó khăn nh"
-                    ],
-                    [
-                        "38:83"
-                    ]
-                ],
-                "Polarity": "Negative",
                 "Intensity": "Standard"
             }
         ]
@@ -45383,10 +44311,10 @@
                 ],
                 "Target": [
                     [
-                        "thái "
+                        "thái"
                     ],
                     [
-                        "57:62"
+                        "57:61"
                     ]
                 ],
                 "Polar_expression": [
@@ -45435,10 +44363,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " tâm lý"
+                        "tâm lý"
                     ],
                     [
-                        "78:85"
+                        "79:85"
                     ]
                 ],
                 "Polarity": "Positive",
@@ -45463,10 +44391,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        "bt "
+                        "bt"
                     ],
                     [
-                        "86:89"
+                        "86:88"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -46379,10 +45307,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " cũng hay ho đ' gì"
+                        "cũng hay ho đ' gì"
                     ],
                     [
-                        "34:52"
+                        "35:52"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -46433,10 +45361,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " ngu hết thuốc chữa"
+                        "ngu hết thuốc chữa"
                     ],
                     [
-                        "9:28"
+                        "10:28"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -46693,112 +45621,6 @@
         ]
     },
     {
-        "sent_id": 5929,
-        "text": "Chị ba tiền chị như miếng giấy chùi lol em ne mặt chị xấu hơn lol em nữa ne chị ba chị sủa nhiều vậy em ko cần đồng tiền vơ bẩn của chị",
-        "opinions": [
-            {
-                "Source": [
-                    [
-                        "̉a "
-                    ],
-                    [
-                        "101:104"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "vậy em ko cần đồng ti"
-                    ],
-                    [
-                        "111:135"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "nhiều"
-                    ],
-                    [
-                        "104:110"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "Chị ba tiền c"
-                    ],
-                    [
-                        "0:15"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "ị như miếng giấy chùi "
-                    ],
-                    [
-                        "16:42"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "m nữa ne "
-                    ],
-                    [
-                        "76:86"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "hị ba chị s"
-                    ],
-                    [
-                        "87:100"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "em ne m"
-                    ],
-                    [
-                        "46:53"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "̣t chị xấu h"
-                    ],
-                    [
-                        "54:68"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 5930,
         "text": "RĂNG MINH HIẾU LÀM Ở ĐÂU ĐẸP MÀ TRẮNG QUÁ XÁ  ĐẸP LẮM NHÉ",
         "opinions": [
@@ -46809,119 +45631,21 @@
                 ],
                 "Target": [
                     [
-                        "ĂNG MINH HIẾ"
+                        "RĂNG MINH HIẾU"
                     ],
                     [
-                        "1:14"
+                        "0:15"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " LÀM Ở ĐÂU ĐẸP MÀ TRẮNG QUÁ XÁ  ĐẸ"
+                        "LÀM Ở ĐÂU ĐẸP MÀ TRẮNG QUÁ XÁ"
                     ],
                     [
-                        "15:57"
+                        "16:52"
                     ]
                 ],
                 "Polarity": "Positive",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
-        "sent_id": 5931,
-        "text": "DM. Chúng bây sủa bậy còn nói à. Nguòi ta nói câu này chúng bây dịch ra câu khác. Nói nguyên văn thì có phải hay hơn ko",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "Chúng bâ"
-                    ],
-                    [
-                        "4:13"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " sủa bậy còn n"
-                    ],
-                    [
-                        "14:31"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [],
-                    []
-                ],
-                "Polar_expression": [
-                    [
-                        " câu khác. Nói nguyên văn thì có "
-                    ],
-                    [
-                        "82:119"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "i à. Ng"
-                    ],
-                    [
-                        "33:41"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "òi ta nói"
-                    ],
-                    [
-                        "42:53"
-                    ]
-                ],
-                "Polarity": "Neutral",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "câu này "
-                    ],
-                    [
-                        "54:63"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "húng bây dịch "
-                    ],
-                    [
-                        "64:80"
-                    ]
-                ],
-                "Polarity": "Negative",
                 "Intensity": "Standard"
             }
         ]
@@ -46995,18 +45719,18 @@
                 ],
                 "Target": [
                     [
-                        " cá tô"
+                        "cá tôm"
                     ],
                     [
-                        "38:44"
+                        "39:45"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " chết hế"
+                        "chết hết"
                     ],
                     [
-                        "45:53"
+                        "46:54"
                     ]
                 ],
                 "Polarity": "Negative",
@@ -47019,18 +45743,18 @@
                 ],
                 "Target": [
                     [
-                        "gậy như y"
+                        "gậy như ý"
                     ],
                     [
-                        "12:21"
+                        "12:22"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " quẩy xuống biể"
+                        "quẩy xuống biển"
                     ],
                     [
-                        "22:37"
+                        "23:38"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -47043,18 +45767,18 @@
                 ],
                 "Target": [
                     [
-                        " nghi án tôn ngộ "
+                        "nghi án tôn ngộ k"
                     ],
                     [
-                        "57:74"
+                        "58:75"
                     ]
                 ],
                 "Polar_expression": [
                     [
-                        " đang ở hà tĩ"
+                        "đang ở hà tĩnh"
                     ],
                     [
-                        "75:89"
+                        "76:91"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -47077,10 +45801,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " cứ đăng bài kiểu này"
+                        "cứ đăng bài kiểu này"
                     ],
                     [
-                        "131:152"
+                        "132:152"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -47117,10 +45841,10 @@
                 ],
                 "Target": [
                     [
-                        "mấy cháu bò "
+                        "mấy cháu bò"
                     ],
                     [
-                        "156:168"
+                        "156:167"
                     ]
                 ],
                 "Polar_expression": [
@@ -51388,10 +50112,10 @@
                 ],
                 "Target": [
                     [
-                        " sự kiềm chế của bạn"
+                        "sự kiềm chế của bạn"
                     ],
                     [
-                        "31:51"
+                        "32:51"
                     ]
                 ],
                 "Polar_expression": [
@@ -51548,64 +50272,6 @@
         ]
     },
     {
-        "sent_id": 1627,
-        "text": "nha ̀ nươ ́ c pha ̉ i bo ̉ tu ̀ mâ ́ y thă ̀ người la ̀ mày oan sai cho ngươ ̀ i dân thi ̀ chu ́ người no ́ mơ ́ i sơ ̣",
-        "opinions": [
-            {
-                "Source": [
-                    [],
-                    []
-                ],
-                "Target": [
-                    [
-                        "dân thi ̀ chu "
-                    ],
-                    [
-                        "81:95"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        " người no"
-                    ],
-                    [
-                        "96:105"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            },
-            {
-                "Source": [
-                    [
-                        "nha ̀ nươ ́"
-                    ],
-                    [
-                        "0:11"
-                    ]
-                ],
-                "Target": [
-                    [
-                        "tu ̀ mâ ́ y thă ̀ người la ̀ mày oan sai cho ngư"
-                    ],
-                    [
-                        "27:75"
-                    ]
-                ],
-                "Polar_expression": [
-                    [
-                        "c pha ̉ i bo ̉"
-                    ],
-                    [
-                        "12:26"
-                    ]
-                ],
-                "Polarity": "Negative",
-                "Intensity": "Standard"
-            }
-        ]
-    },
-    {
         "sent_id": 1628,
         "text": "có tiền thì có vị ngọt và không có tiền thì đắng và cay thế thôi",
         "opinions": [
@@ -51698,10 +50364,10 @@
                 ],
                 "Polar_expression": [
                     [
-                        " thế nào là tránh cửa ra 1 tý"
+                        "thế nào là tránh cửa ra 1 tý"
                     ],
                     [
-                        "8:37"
+                        "9:37"
                     ]
                 ],
                 "Polarity": "Neutral",
@@ -52084,10 +50750,10 @@
                 ],
                 "Target": [
                     [
-                        "huyện quan trọng gì của mẽo trên thế giới "
+                        "chuyện quan trọng gì của mẽo trên thế giới"
                     ],
                     [
-                        "41:83"
+                        "40:82"
                     ]
                 ],
                 "Polar_expression": [
