@@ -3,6 +3,7 @@
 The source code is referenced from: https://github.com/jerbarnes/sentiment_graphs     
 
 Dataset: ViTOED (to be updated)    
+Link to dataset: https://github.com/sonlam1102/vitoed/tree/master/dataset/vitoed
 
 Authors: Chanh Vo, Son T. Luu, Ngan Nguyen     
 
@@ -33,6 +34,7 @@ Run the bash script ".eval.sh"
 + If you want to change the BERT embedding, please change in the file "./script/run_bert.sh". 
 + If you want to change the word embedding vectors, please change in the file "./script/run_sentgraph_bert.sh" (line 25-26).
 + If you want to change the word embedding dim and other, please change in the file "./config/sgraph_bert.cfg" (section [network_size])
+
 
 
 
