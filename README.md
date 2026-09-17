@@ -35,6 +35,20 @@ Run the bash script ".eval.sh"
 + If you want to change the word embedding vectors, please change in the file "./script/run_sentgraph_bert.sh" (line 25-26).
 + If you want to change the word embedding dim and other, please change in the file "./config/sgraph_bert.cfg" (section [network_size])
 
-
+## Publication 
+Link: https://ieeexplore.ieee.org/document/11685817   
+Please cite this publication if you use the dataset:
+```
+@INPROCEEDINGS{11685817,
+  author={Vo, Chanh and Luu, Son T. and Luu-Thuy Nguyen, Ngan},
+  booktitle={2026 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)}, 
+  title={ViTOED: A Dataset for Target-Oriented Emotion Detection on Vietnamese Social Media Texts}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Modeling;Head;Labeling;Social networking (online);Printing;Training;Sentiment analysis;Conferences;Multilingual;Signal detection;targeted sentiment analysis;dataset;social media texts},
+  doi={10.1109/MAPR72750.2026.11685817}}
+```
 
 
